@@ -1,4 +1,4 @@
-# Mitzva_wallet
+# wallet
 
 # Introduction
 - In Jewish life style- there are a lot of mitzvahot to do every day.
@@ -17,7 +17,7 @@
  
 
 # How to run the romote version(CLI)
-1. Clone project: `gh repo clone EASS-HIT-2022/Mitzva_wallet`
+1. Clone project: `gh repo clone EASS-HIT-2022/wallet`
 2. Right path: `cd ./wallet_backend`
 3. Create an image: `docker build . -t  remote-fastapi`
 4. Run image: `docker run -ti -p8888:8080  remote-fastapi`
