@@ -1,4 +1,4 @@
-# wallet
+# Wallet
 
 # Introduction
 - In Jewish life style- there are a lot of mitzvahot to do every day.
