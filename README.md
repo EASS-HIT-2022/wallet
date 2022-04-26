@@ -8,9 +8,9 @@
 
 
 - We'll create a simpler way to combine both.
+ 
 
-
-- A wallet that consists prayers beside money. 
+-A wallet that will try to consist available prayers beside financial transactions.
 
 
  As Rabbi Kook said:" **The old will be renewed, and the new- will be sanctified** "
