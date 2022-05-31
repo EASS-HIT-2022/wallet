@@ -1,6 +1,4 @@
 __pycache__
 .pytest_cache
-/backend/server/__init__.py
+
 /backend/testing/__pycache__
-/backend/testing/__init__.py
-__init__.py
