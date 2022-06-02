@@ -62,9 +62,12 @@ Way no.2- FastAPI Swagger:
 ## Displaying the frontend:
 4. Check the localhost: `docker run -p8501:8501 remote-streamlit`
 5. Navigate to: `http://localhost:8501`
+6. finish checking frontend process: `ctrl+c`
 
-6. New path: `cd ./wallet/frontend/app`
-7. Display full GUI: `streamlit run ui.py`
+7. New path: `cd ./wallet/frontend/app`
+8. Display full GUI: `streamlit run ui.py`
+9. Refresh the port: `http://localhost:8501`
+
 8. Finish GUI process: `ctrl+c`(just when you want to finish!)
 * Finish server process: `ctrl+c`
 
@@ -76,7 +79,7 @@ Way no.2- FastAPI Swagger:
 
 
  # Screenshots:
-![](pictures/appVideo.gif "Search")
+
 
 ##### next:
 Redis+Docker compose
