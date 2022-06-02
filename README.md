@@ -78,7 +78,8 @@ Way no.2- FastAPI Swagger:
 
 
 
- # Screenshots:
+ # Screenshots:![wallet](https://user-images.githubusercontent.com/84973766/171567463-69749cef-e28a-42ac-8593-62018117ffd6.gif)ts:
+
 
 
 ##### next:
