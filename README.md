@@ -80,8 +80,9 @@ Way no.2- FastAPI Swagger:
 
  # Screenshots(click to watch):
 
- 
- ![wallet](https://user-images.githubusercontent.com/84973766/171567463-69749cef-e28a-42ac-8593-62018117ffd6.gif)
+ ![wallet (1)](https://user-images.githubusercontent.com/84973766/171568442-200e135c-9512-489e-8a5a-b127122db7de.gif)
+
+
 
 
 
