@@ -15,13 +15,13 @@
 - We create a simpler way to combine both.
  
 
--A wallet that consists available prayers beside financial transactions.
+- A wallet that consists available prayers beside financial transactions.
 
--The system save db of user.(for ilustration only)
+- The system save db of user.(for ilustration only)
 
 
 
- As Rabbi Kook said:    " **The old will be renewed, and the new- will be sanctified** "
+ - As Rabbi Kook said:    " **The old will be renewed, and the new- will be sanctified** "
  
 
 # How to run the romote version(CLI)✅
