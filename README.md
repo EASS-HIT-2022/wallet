@@ -44,11 +44,11 @@
 
 
 
-## Testing ##📌
+## Testing 📌
 1.  Run `pytest`
 
 
- # Screenshots(click to watch)📷:
+ # Screenshots(click to watch):📷
 
 https://user-images.githubusercontent.com/84973766/171572624-2541b4bd-a7ff-4a8b-86c3-4e0b6833ee92.mp4
 
