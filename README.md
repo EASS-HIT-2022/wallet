@@ -40,7 +40,7 @@
 - ⚡MySQL db: `http://localhost:8002/`
 
 
-5. Finish running docker-compose: `ctrl+c`(just when you want to finish!)💀
+4. Finish running docker-compose: `ctrl+c`(just when you want to finish!)💀
 
 
 
