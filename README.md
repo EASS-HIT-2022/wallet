@@ -35,7 +35,7 @@
 3. Open browser- Navigate to:
 
 
--⚡ Backend: `http://localhost:8000/docs`
+- ⚡ Backend: `http://localhost:8000/docs`
 - ⚡Frontend: `http://localhost:8001/`
 - ⚡MySQL db: `http://localhost:8002/`
 
