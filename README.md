@@ -1,7 +1,7 @@
 # Wallet
 -   [Introduction](#introduction)
--   [Setting-up](#How to run the romote version(CLI))  
--   [Screenshots](#Screenshots(click to watch):)
+-   [Setting-up](##how-to-run-the-romote-versioncli)  
+-   [Screenshots](#screenshotsclick-to-watch)
 
 
 # Introduction😇
