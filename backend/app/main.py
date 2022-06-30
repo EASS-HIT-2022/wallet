@@ -2,6 +2,13 @@ import time
 from fastapi import FastAPI
 from enum import Enum, IntEnum
 from pydantic import BaseModel
+#my sql- users
+from user import User
+import mysqlConnector 
+import json
+
+usersList = []
+
 
 #Clock request
 class RequestClock(BaseModel):
@@ -30,6 +37,7 @@ class RequestClient(BaseModel):
 
 app = FastAPI()
 
+
 @app.get("/")
 async def get_root():
     print(get_root)
@@ -51,7 +59,15 @@ def pay(req:RequestClient):
     'amount':req.amount}
 
 
-  
-
+@app.get("/getUsers")
+async def getUsers():
+    con = mysqlConnector.connect()
+    selectAllUsers = ("SELECT * FROM users")
+    cursor = con.cursor()
+    cursor.execute(selectAllUsers)
+    myresult = cursor.fetchall()
+    cursor.close()
+    con.close()
+    return {"message": myresult}
   
 
