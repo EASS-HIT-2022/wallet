@@ -1,5 +1,6 @@
 fastapi
+pydantic
 uvicorn[standard]
-
+pydantic[email]
 pytest
-
+mysql-connector-python
