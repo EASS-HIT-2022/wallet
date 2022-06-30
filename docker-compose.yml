@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  dbmysql:
+    build: ./sql_service
+    ports:
+      - "8002:3306"
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    container_name: backend
+  frontend:
+    build: ./frontend
+    ports:
+      - "8001:3000"
+    container_name: frontend
